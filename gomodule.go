@@ -1,6 +1,6 @@
 package gomodule
 
 func Hello() string {
-	return "Hi, ya!"
+	return "Hi, you!"
 }
 
