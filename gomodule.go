@@ -1,4 +1,4 @@
-package gomodule
+package gomodulex
 
 func Hello() string {
 	return "Hi, you!"
@@ -7,4 +7,5 @@ func Hello() string {
 func Goodbye() string {
   return "Goodbye for now!"
 }
+
 
